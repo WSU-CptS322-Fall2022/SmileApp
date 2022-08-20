@@ -11,10 +11,9 @@ Includes all tests (unittest, pytest, selenium)
 
 ### To run this example:
 - Start the application with the following command:
-```
-Windows:    set FLASK_DEBUG=1 && python -m flask run
-Mac/Linux:   export FLASK_DEBUG=1 && python -m flask run
-```
+    ```
+    python smile.py
+    ```
 
 ### To run the tests:
 - run the tests for Model (unittest)
